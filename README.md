@@ -3,7 +3,7 @@
 Status do projeto: Em desenvolvimento
 
 Para rodar este projeto na sua maquina, por favor digite:
-
+as sequencias nescessarias
 ```
 node app.js
 ```
